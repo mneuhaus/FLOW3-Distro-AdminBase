@@ -28,3 +28,6 @@
 [submodule "Packages/Framework/Symfony.Component.Yaml"]
 	path = Packages/Framework/Symfony.Component.Yaml
 	url = git://git.typo3.org/FLOW3/Packages/Symfony.Component.Yaml.git
+[submodule "Packages/Application/Admin"]
+	path = Packages/Application/Admin
+	url = git@github.com:mneuhaus/FLOW3-Admin.git
